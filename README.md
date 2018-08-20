@@ -3,7 +3,7 @@
 ## Notas en n archivo JSON Console App
 
 Esta es una aplicación para guardar notas 
-en un archivo JASON
+en un archivo JSON
 
 Ejecutar este comando
 
